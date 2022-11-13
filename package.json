@@ -1,0 +1,21 @@
+{
+  "name": "naamjyut",
+  "displayName": "NaamJyut",
+  "description": "A warm, gentle color scheme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NaamJyut",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NaamJyut-color-theme.json"
+      }
+    ]
+  }
+}
