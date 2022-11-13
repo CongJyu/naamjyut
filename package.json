@@ -13,6 +13,7 @@
     "type": "git",
     "url": "git://github.com/CongJyu/naamjyut.git"
   },
+  "publisher": "Rain Chen",
   "contributes": {
     "themes": [
       {
