@@ -1,7 +1,7 @@
 {
   "name": "naamjyut",
   "displayName": "NaamJyut",
-  "description": "A warm, gentle color scheme.",
+  "description": "An inclusive, gentle color scheme.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
