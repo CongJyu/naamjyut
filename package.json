@@ -9,6 +9,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "git://github.com/CongJyu/naamjyut.git"
