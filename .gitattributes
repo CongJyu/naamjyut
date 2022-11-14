@@ -1,4 +1,2 @@
 # Set default behavior to automatically normalize line endings.
 * text=auto
-*.json linguist-language=json
-*.md linguist-language=markdown
