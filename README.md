@@ -22,5 +22,4 @@ Light colors with dark background. Sit, relax and enjoy coding.
 
 ## TODO
 
-- Adjust colors to a standard.
 - Design an icon for the extension.

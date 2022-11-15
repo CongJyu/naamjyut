@@ -28,5 +28,4 @@ Cinsik ge zitai tung samsik ge buiging daap'pui, co dai jinhau fongsung, hoengsa
 
 ## 準備做 Zeonbei zou
 
-- 調整至標準配色。
 - 設計一個 Icon 畀呢個 extension。
