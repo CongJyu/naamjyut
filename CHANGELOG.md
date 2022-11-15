@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "naamjyut" extension will be documented in this file.
+## 0.1.1
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Fixed
 
-## [Unreleased]
-
-- Initial release
+Adjusted the colors. Completed the documents.
