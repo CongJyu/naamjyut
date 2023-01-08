@@ -23,9 +23,3 @@ Cinsik ge zitai tung samsik ge buiging daap'pui, co dai jinhau fongsung, hoengsa
 | #A78BFA | #F472B6 | #FCA5A5 | #FEF08A | #5EEAD4 | #A5F3FC |
 
 ## 例子 Laizi
-
-
-
-## 準備做 Zeonbei zou
-
-- 設計一個 Icon 畀呢個 extension。

@@ -17,9 +17,3 @@ Light colors with dark background. Sit, relax and enjoy coding.
 | #A78BFA | #F472B6 | #FCA5A5 | #FEF08A | #5EEAD4 | #A5F3FC |
 
 ## Examples
-
-
-
-## TODO
-
-- Design an icon for the extension.
