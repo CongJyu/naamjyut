@@ -2,14 +2,14 @@
   "name": "naamjyut",
   "displayName": "NaamJyut",
   "description": "An inclusive, gentle color scheme.",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.73.0"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "git://github.com/CongJyu/naamjyut.git"
