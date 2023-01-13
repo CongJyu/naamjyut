@@ -1,6 +1,6 @@
 # NaamJyut
 
-一個包容、優雅嘅代碼配色，來自廣州，用 ❤️ 製作。
+一個包容、優雅嘅代碼配色，來自廣州，用 ❤️ 製作。靈感來源 Tokyo Night 主題。
 
 Jat go baaujung, jaungaa ge doimaa puisik,loi zi Gwong-Zau，jung ❤️ zaizok.
 
@@ -17,5 +17,3 @@ Gam soengbin go go **Install** zai loi onzong, waakze nei hoji zigei cung [Githu
 淺色嘅字體同深色嘅背景搭配，坐低然後放鬆，享受編寫程式嘅快樂。
 
 Cinsik ge zitai tung samsik ge buiging daap'pui, co dai jinhau fongsung, hoengsau pinse cingsik ge faailok.
-
-## 例子 Laizi

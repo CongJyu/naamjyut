@@ -1,6 +1,6 @@
 # NaamJyut
 
-An inclusive, gentle color theme, made with ❤️ from Canton.
+An inclusive, gentle color theme, made with ❤️ from Canton. Idea was inspired by Tokyo Night Theme.
 
 English | [粵語 JyutJyu](docs/cantonese.md) | [简体中文](docs/chinese_sim.md)
 
@@ -11,5 +11,3 @@ Click the **Install** button above, or you can build it yourself from [Github](h
 ## Features
 
 Light colors with dark background. Sit, relax and enjoy coding.
-
-## Examples
