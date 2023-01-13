@@ -1,12 +1,6 @@
 {
 	"name": "NaamJyut",
     "author": "CongJyu",
-	"colors": {
-		"editor.background": "#1b1b1b",
-		"editor.foreground": "#eeeeee",
-		"activityBarBadge.background": "#3B82F6",
-		"sideBarTitle.foreground": "#dedede"
-	},
 	"tokenColors": [
         {
             "name": "Italics - Comments, Storage, Keyword Flow, Vue attributes, Decorators",

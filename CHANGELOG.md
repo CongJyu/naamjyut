@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.5.1
+
+Changed background to default.
+
 ## 0.5.0
 
 Completed documents. Fixed some small problems.
