@@ -81,7 +81,7 @@
                 "support.constant"
             ],
             "settings": {
-                "foreground": "#ff9e64"
+                "foreground": "#ff9344"
             }
         },
         {
@@ -291,7 +291,7 @@
                 "constant.other"
             ],
             "settings": {
-                "foreground": "#e0af68"
+                "foreground": "#ebd168"
             }
         },
         {
@@ -406,7 +406,7 @@
                 "meta.function.parameter variable"
             ],
             "settings": {
-                "foreground": "#e0af68"
+                "foreground": "#ebd168"
             }
         },
         {
@@ -539,7 +539,7 @@
                 "entity.name.tag.reference"
             ],
             "settings": {
-                "foreground": "#e0af68"
+                "foreground": "#ebd168"
             }
         },
         {
@@ -557,7 +557,7 @@
                 "meta.property-list meta.at-rule.else"
             ],
             "settings": {
-                "foreground": "#ff9e64"
+                "foreground": "#ff9344"
             }
         },
         {
@@ -617,7 +617,7 @@
             "name": "CSS value",
             "scope": "support.constant.property-value",
             "settings": {
-                "foreground": "#ff9e64"
+                "foreground": "#ff9344"
             }
         },
         {
@@ -754,7 +754,7 @@
                 "punctuation.definition.character-class.regexp"
             ],
             "settings": {
-                "foreground": "#e0af68"
+                "foreground": "#ebd168"
             }
         },
         {
@@ -837,7 +837,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#e0af68"
+                "foreground": "#ebd168"
             }
         },
         {
