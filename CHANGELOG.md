@@ -1,5 +1,13 @@
 # Change Log
 
+## 0.7.0
+
+Adjust colors, use new color scheme.
+
+## 0.6.0
+
+Adjust colors.
+
 ## 0.5.1
 
 Changed background to default.
