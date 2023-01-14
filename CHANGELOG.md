@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.7.1
+
+Fixed some colors.
+
 ## 0.7.0
 
 Adjust colors, use new color scheme.

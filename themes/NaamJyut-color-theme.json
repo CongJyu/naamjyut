@@ -81,7 +81,7 @@
                 "support.constant"
             ],
             "settings": {
-                "foreground": "#c9905e"
+                "foreground": "#ff9e64"
             }
         },
         {
@@ -175,7 +175,7 @@
                 "keyword.operator.rest"
             ],
             "settings": {
-                "foreground": "#cb6863",
+                "foreground": "#f7768e",
                 "fontStyle": "bold"
             }
         },
@@ -260,7 +260,7 @@
             "name": "Tag",
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#cb6863"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -359,14 +359,14 @@
             "name": "C-related Block Level Variables",
             "scope": "source.cpp meta.block variable.other",
             "settings": {
-                "foreground": "#cb6863"
+                "foreground": "#f7768e"
             }
         },
         {
             "name": "Other Variable",
             "scope": "support.other.variable",
             "settings": {
-                "foreground": "#cb6863"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -557,7 +557,7 @@
                 "meta.property-list meta.at-rule.else"
             ],
             "settings": {
-                "foreground": "#c9905e"
+                "foreground": "#ff9e64"
             }
         },
         {
@@ -617,7 +617,7 @@
             "name": "CSS value",
             "scope": "support.constant.property-value",
             "settings": {
-                "foreground": "#c9905e"
+                "foreground": "#ff9e64"
             }
         },
         {
@@ -635,7 +635,7 @@
             "name": "Language methods",
             "scope": "variable.language",
             "settings": {
-                "foreground": "#cb6863"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -653,7 +653,7 @@
                 "keyword.other.this"
             ],
             "settings": {
-                "foreground": "#cb6863"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -735,7 +735,7 @@
             "name": "Regular Expressions - Punctuation",
             "scope": "punctuation.definition.group",
             "settings": {
-                "foreground": "#cb6863"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -792,7 +792,7 @@
             "name": "CSS Units",
             "scope": "keyword.other.unit",
             "settings": {
-                "foreground": "#cb6863"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -864,7 +864,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#cb6863"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -1136,7 +1136,7 @@
             "name": "Apache Tag",
             "scope": "entity.tag.apacheconf",
             "settings": {
-                "foreground": "#cb6863"
+                "foreground": "#f7768e"
             }
         },
         {
