@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.7.5
+
+Fixed some italic fontstyle errors.
+
 ## 0.7.1
 
 Fixed some colors.
