@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.8.0
+
+Adjust variables' colors and fixed some issues.
+
 ## 0.7.6
 
 Changed docs.

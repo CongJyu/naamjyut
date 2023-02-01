@@ -302,7 +302,7 @@
                 "variable.other.object"
             ],
             "settings": {
-                "foreground": "#9491da"
+                "foreground": "#b2affe"
             }
         },
         {
@@ -343,7 +343,7 @@
             "name": "Object Property",
             "scope": "variable.other.object.property",
             "settings": {
-                "foreground": "#9491da"
+                "foreground": "#b2affe"
             }
         },
         {
@@ -467,7 +467,7 @@
             "name": "Class Name",
             "scope": "entity.name",
             "settings": {
-                "foreground": "#9491da"
+                "foreground": "#b2affe"
             }
         },
         {
@@ -608,7 +608,7 @@
             "name": "SCSS Include Mixin Argument",
             "scope": "meta.property-list meta.at-rule.include",
             "settings": {
-                "foreground": "#9491da"
+                "foreground": "#b2affe"
             }
         },
         {
@@ -626,7 +626,7 @@
                 "variable.other.class.js"
             ],
             "settings": {
-                "foreground": "#9491da"
+                "foreground": "#b2affe"
             }
         },
         {
@@ -640,7 +640,7 @@
             "name": "Variable punctuation",
             "scope": "variable.other punctuation.definition.variable",
             "settings": {
-                "foreground": "#9491da"
+                "foreground": "#b2affe"
             }
         },
         {
@@ -766,7 +766,7 @@
             "name": "Regular Expressions - Backslash",
             "scope": "constant.character.escape.backslash",
             "settings": {
-                "foreground": "#9491da"
+                "foreground": "#b2affe"
             }
         },
         {
@@ -913,7 +913,7 @@
                 "meta.embedded.block"
             ],
             "settings": {
-                "foreground": "#9491da"
+                "foreground": "#b2affe"
             }
         },
         {
@@ -1014,7 +1014,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#9491da"
+                "foreground": "#b2affe"
             }
         },
         {
@@ -1026,7 +1026,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#9491da"
+                "foreground": "#b2affe"
             }
         },
         {
@@ -1037,7 +1037,7 @@
             ],
             "settings": {
                 "fontStyle": "bold italic",
-                "foreground": "#9491da"
+                "foreground": "#b2affe"
             }
         },
         {
