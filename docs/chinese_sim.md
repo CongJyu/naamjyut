@@ -23,7 +23,7 @@
 | ![#95d176](https://place-hold.it/15/95d176/95d176?text=+) `#95d176` | Object literal keys, Markdown links, Terminal Green |
 | ![#77d2b0](https://place-hold.it/15/77d2b0/77d2b0?text=+) `#77d2b0` | Function names, CSS property names, Terminal Blue |
 | ![#7ebad4](https://place-hold.it/15/7ebad4/7ebad4?text=+) `#7ebad4` | Object properties, Regex quantifiers and flags, Markdown headings, Terminal Cyan, Markdown code, Import/export keywords |
- ![#9491da](https://place-hold.it/15/9491da/9491da?text=+) `#9491da` | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
-| ![#dfb4e6](https://place-hold.it/15/dfb4e6/dfb4e6?text=+) `#dfb4e6` | Variables, Class names, Terminal White |
+ ![#9491da](https://place-hold.it/15/9491da/9491da?text=+) `#9491da` | Variables, Class names, Terminal White |
+| ![#dfb4e6](https://place-hold.it/15/dfb4e6/dfb4e6?text=+) `#dfb4e6` | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
 | ![#f9ecf5](https://place-hold.it/15/f9ecf5/f9ecf5?text=+) `#f9ecf5` | Markdown Text, HTML Text |
 | ![#667c87](https://place-hold.it/15/667c87/667c87?text=+) `#667c87` |Comments |

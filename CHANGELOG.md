@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.7.6
+
+Changed docs.
+
 ## 0.7.5
 
 Fixed some italic fontstyle errors.
