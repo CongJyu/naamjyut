@@ -3,17 +3,9 @@
     "author": "CongJyu",
 	"tokenColors": [
         {
-            "name": "Italics - Comments, Storage, Keyword Flow, Vue attributes, Decorators",
+            "name": "Italics - Comments",
             "scope": [
-                "comment",
-                "meta.var.expr storage.type",
-                "keyword.control.flow",
-                "keyword.control.return",
-                "meta.directive.vue punctuation.separator.key-value.html",
-                "meta.directive.vue entity.other.attribute-name.html",
-                "tag.decorator.js entity.name.tag.js",
-                "tag.decorator.js punctuation.definition.tag.js",
-                "storage.modifier"
+                "comment"
             ],
             "settings": {
                 "fontStyle": "italic"
