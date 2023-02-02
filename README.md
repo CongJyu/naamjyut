@@ -12,7 +12,7 @@ Click the **Install** button above, or you can build it yourself from [Github](h
 
 Light colors with dark background. Sit, relax and enjoy coding.
 
-## Colors
+## Main Colors
 
 | Color | Use |
 | --- | --- |

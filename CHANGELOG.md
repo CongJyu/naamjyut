@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.8.3
+
+Change docs and markdown colors.
+
 ## 0.8.2
 
 Fixed wrong italics.

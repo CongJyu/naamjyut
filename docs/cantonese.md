@@ -18,7 +18,7 @@ Gam soengbin go go **Install** zai loi onzong, waakze nei hoji zigei cung [Githu
 
 Cinsik ge zitai tung samsik ge buiging daap'pui, co dai jinhau fongsung, hoengsau pinse cingsik ge faailok.
 
-## 顏色 Ngaansik
+## 主要顏色 Zyujiu Ngaansik
 
 | 顏色 Ngaansik | 使用地方 Saijung Deifong |
 | --- | --- |
