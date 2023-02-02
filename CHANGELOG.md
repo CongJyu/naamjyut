@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.8.1
+
+Fixed wrong italics.
+
 ## 0.8.0
 
 Adjust variables' colors and fixed some issues.
