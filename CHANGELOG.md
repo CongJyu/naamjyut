@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.8
+
+Set comment color.
+
 ## 1.0.7
 
 Configured markdown color scheme.
