@@ -991,7 +991,7 @@
                 "text.log"
             ],
             "settings": {
-                "foreground": "#9aa5ce"
+                "foreground": "#c1ccf4"
             }
         },
         {
@@ -1016,7 +1016,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#89ddff"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -1027,7 +1027,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#61bdf2"
+                "foreground": "#ff9e64"
             }
         },
         {
@@ -1038,7 +1038,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#7aa2f7"
+                "foreground": "#e0af68"
             }
         },
         {
@@ -1049,7 +1049,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#6d91de"
+                "foreground": "#9ece6a"
             }
         },
         {
@@ -1060,7 +1060,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#9aa5ce"
+                "foreground": "#73daca"
             }
         },
         {
@@ -1071,7 +1071,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#747ca1"
+                "foreground": "#b4f9f8"
             }
         },
         {
@@ -1151,7 +1151,7 @@
                 "variable.language.fenced.markdown"
             ],
             "settings": {
-                "foreground": "#89ddff"
+                "foreground": "#cfc9c2"
             }
         },
         {

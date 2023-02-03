@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.7
+
+Configured markdown color scheme.
+
 ## 1.0.6
 
 Fixed colors.
