@@ -16,8 +16,8 @@
 
 | 基础颜色 1 | 基础颜色 2 | 彩虹 |
 | --- | --- | --- |
-| ![#D8DEE9](https://place-hold.it/15/D8DEE9/D8DEE9?text=+) `#D8DEE9` |  ![#63CBC9](https://place-hold.it/15/63CBC9/63CBC9?text=+) `#63CBC9`  | ![#F7768E](https://place-hold.it/15/F7768E/F7768E?text=+) `#F7768E` |
-| ![#E5E9F0](https://place-hold.it/15/E5E9F0/E5E9F0?text=+) `#E5E9F0` |  ![#7897D2](https://place-hold.it/15/7897D2/7897D2?text=+) `#7897D2`  |  ![#FA9270](https://place-hold.it/15/FA9270/FA9270?text=+) `#FA9270` |
-| ![#ECEFF4](https://place-hold.it/15/ECEFF4/ECEFF4?text=+) `#ECEFF4` |  ![#A590DA](https://place-hold.it/15/A590DA/A590DA?text=+) `#A590DA`  |  ![#EECD6D](https://place-hold.it/15/EECD6D/EECD6D?text=+) `#EECD6D` |
+| ![#D8DEFF](https://place-hold.it/15/D8DEFF/D8DEFF?text=+) `#D8DEFF` |  ![#63CBC9](https://place-hold.it/15/63CBC9/63CBC9?text=+) `#63CBC9`  | ![#F7768E](https://place-hold.it/15/F7768E/F7768E?text=+) `#F7768E` |
+| ![#E5E9FF](https://place-hold.it/15/E5E9FF/E5E9FF?text=+) `#E5E9FF` |  ![#67B5EC](https://place-hold.it/15/67B5EC/67B5EC?text=+) `#67B5EC`  |  ![#FA9270](https://place-hold.it/15/FA9270/FA9270?text=+) `#FA9270` |
+| ![#ECEFFF](https://place-hold.it/15/ECEFFF/ECEFFF?text=+) `#ECEFFF` |  ![#9494FF](https://place-hold.it/15/9494FF/9494FF?text=+) `#9494FF`  |  ![#EECD6D](https://place-hold.it/15/EECD6D/EECD6D?text=+) `#EECD6D` |
 |  |  ![#DE9BD0](https://place-hold.it/15/DE9BD0/DE9BD0?text=+) `#DE9BD0`  |  ![#99D176](https://place-hold.it/15/99D176/99D176?text=+) `#99D176` |
-|  |  |  ![#69BFFF](https://place-hold.it/15/69BFFF/69BFFF?text=+) `#69BFFF` |
+|  |  |  ![#9BEEFF](https://place-hold.it/15/9BEEFF/9BEEFF?text=+) `#9BEEFF` |

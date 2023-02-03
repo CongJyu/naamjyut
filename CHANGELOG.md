@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.3
+
+Adjust colors.
+
 ## 1.0.2
 
 Set bracket colors.
