@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.0
+
+We are happy to announce that with the efforts in several months, the color scheme is finally settled down now.
+
 ## 0.8.3
 
 Change docs and markdown colors.
