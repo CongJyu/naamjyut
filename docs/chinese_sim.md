@@ -12,12 +12,18 @@
 
 浅颜色与深色背景搭配。「坐和放宽」，享受写代码的乐趣。
 
-## 颜色
+## 主要颜色
 
-| 基础颜色 1 | 基础颜色 2 | 彩虹 |
-| --- | --- | --- |
-| ![#D8DEFF](https://place-hold.it/15/D8DEFF/D8DEFF?text=+) `#D8DEFF` |  ![#63CBC9](https://place-hold.it/15/63CBC9/63CBC9?text=+) `#63CBC9`  | ![#F7768E](https://place-hold.it/15/F7768E/F7768E?text=+) `#F7768E` |
-| ![#E5E9FF](https://place-hold.it/15/E5E9FF/E5E9FF?text=+) `#E5E9FF` |  ![#67B5EC](https://place-hold.it/15/67B5EC/67B5EC?text=+) `#67B5EC`  |  ![#FA9270](https://place-hold.it/15/FA9270/FA9270?text=+) `#FA9270` |
-| ![#ECEFFF](https://place-hold.it/15/ECEFFF/ECEFFF?text=+) `#ECEFFF` |  ![#9494FF](https://place-hold.it/15/9494FF/9494FF?text=+) `#9494FF`  |  ![#EECD6D](https://place-hold.it/15/EECD6D/EECD6D?text=+) `#EECD6D` |
-|  |  ![#DE9BD0](https://place-hold.it/15/DE9BD0/DE9BD0?text=+) `#DE9BD0`  |  ![#99D176](https://place-hold.it/15/99D176/99D176?text=+) `#99D176` |
-|  |  |  ![#9BEEFF](https://place-hold.it/15/9BEEFF/9BEEFF?text=+) `#9BEEFF` |
+| 颜色 | 使用地方 |
+| --- | --- |
+| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red |
+| ![#ff9e64](https://place-hold.it/15/ff9e64/ff9e64?text=+) `#ff9e64` | Number and Boolean constants, Language support constants |
+| ![#cab861](https://place-hold.it/15/cab861/cab861?text=+) `#cab861` | Function parameters, Regex character sets, Terminal Yellow |
+| ![#9ece6a](https://place-hold.it/15/9ece6a/9ece6a?text=+) `#9ece6a` | Strings, CSS class names |
+| ![#95d176](https://place-hold.it/15/95d176/95d176?text=+) `#95d176` | Object literal keys, Markdown links, Terminal Green |
+| ![#77d2b0](https://place-hold.it/15/77d2b0/77d2b0?text=+) `#77d2b0` | Function names, CSS property names, Terminal Blue |
+| ![#7ebad4](https://place-hold.it/15/7ebad4/7ebad4?text=+) `#7ebad4` | Object properties, Regex quantifiers and flags, Markdown headings, Terminal Cyan, Markdown code, Import/export keywords |
+| ![#b2affe](https://place-hold.it/15/b2affe/b2affe?text=+) `#b2affe` | Variables, Class names, Terminal White |
+| ![#dfb4e6](https://place-hold.it/15/dfb4e6/dfb4e6?text=+) `#dfb4e6` | Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta |
+| ![#f9ecf5](https://place-hold.it/15/f9ecf5/f9ecf5?text=+) `#f9ecf5` | Markdown Text, HTML Text |
+| ![#667c87](https://place-hold.it/15/667c87/667c87?text=+) `#667c87` |Comments |
