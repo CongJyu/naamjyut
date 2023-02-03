@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.6
+
+Fixed colors.
+
 ## 1.0.4
 
 Rebuilt.
