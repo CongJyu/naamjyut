@@ -1,7 +1,28 @@
 {
     "name": "NaamJyut",
     "author": "CongJyu",
+    "type": "dark",
     "semanticHighlighting": true,
+    "colors": {
+        "editorBracketHighlight.foreground1": "#F7768E95",
+		"editorBracketHighlight.foreground2": "#FA927095",
+		"editorBracketHighlight.foreground3": "#EECD6D95",
+		"editorBracketHighlight.foreground4": "#99D17695",
+		"editorBracketHighlight.foreground5": "#69BFFF95",
+		"editorBracketHighlight.foreground6": "#A590DA95",
+		"editorBracketPairGuide.activeBackground1": "#F7768E",
+		"editorBracketPairGuide.activeBackground2": "#FA9270",
+		"editorBracketPairGuide.activeBackground3": "#EECD6D",
+		"editorBracketPairGuide.activeBackground4": "#99D176",
+		"editorBracketPairGuide.activeBackground5": "#69BFFF",
+		"editorBracketPairGuide.activeBackground6": "#A590DA",
+		"editorBracketPairGuide.background1": "#F7768E95",
+		"editorBracketPairGuide.background2": "#FA927095",
+		"editorBracketPairGuide.background3": "#EECD6D95",
+		"editorBracketPairGuide.background4": "#99D17695",
+		"editorBracketPairGuide.background5": "#69BFFF95",
+		"editorBracketPairGuide.background6": "#A590DA95",
+    },
     "tokenColors": [
         {
             "settings": {
