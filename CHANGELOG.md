@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.0
+
+Fixed wrong colors.
+
 ## 1.0.9
 
 StatBar remote button color.

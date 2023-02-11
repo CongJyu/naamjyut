@@ -3,7 +3,7 @@
     "author": "CongJyu",
     "type": "dark",
     "colors": {
-        "statusBarItem.remoteBackground": "#008844"
+        "statusBarItem.remoteBackground": "#3d8060"
     },
     "tokenColors": [
         {
