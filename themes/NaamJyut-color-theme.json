@@ -2,71 +2,8 @@
     "name": "NaamJyut",
     "author": "CongJyu",
     "type": "dark",
-    "semanticTokenColors": {
-        "parameter.declaration": {
-            "foreground": "#e0af68"
-        },
-        "parameter": {
-            "foreground": "#d9d4cd"
-        },
-        "property.declaration": {
-            "foreground": "#73daca"
-        },
-        "property.defaultLibrary": {
-            "foreground": "#2ac3de"
-        },
-        "*.defaultLibrary": {
-            "foreground": "#2ac3de"
-        },
-        "variable.defaultLibrary": {
-            "foreground": "#2ac3de"
-        },
-        "variable.declaration": {
-            "foreground": "#bb9af7"
-        },
-        "variable": {
-            "foreground": "#c0caf5"
-        }
-    },
-    "semanticClass": "NaamJyut",
     "colors": {
-        "editorBracketHighlight.foreground1": "#698cd6", //"#7AA2F7",
-        "editorBracketHighlight.foreground2": "#68b3de", //"#7DCFFF",
-        "editorBracketHighlight.foreground3": "#9a7ecc", //"#BB9AF7",
-        "editorBracketHighlight.foreground4": "#25aac2", //"#2AC3DE",
-        "editorBracketHighlight.foreground5": "#80a856", //"#9ECE6A",
-        "editorBracketHighlight.foreground6": "#c49a5a", //"#e0af68",
-        "editorBracketHighlight.unexpectedBracket.foreground": "#db4b4b",
-        "editorBracketPairGuide.activeBackground1": "#698cd6",
-        "editorBracketPairGuide.activeBackground2": "#68b3de",
-        "editorBracketPairGuide.activeBackground3": "#9a7ecc",
-        "editorBracketPairGuide.activeBackground4": "#25aac2",
-        "editorBracketPairGuide.activeBackground5": "#80a856",
-        "editorBracketPairGuide.activeBackground6": "#c49a5a",
-        "terminal.ansiBlack": "#363b54",
-        "terminal.ansiRed": "#f7768e",
-        "terminal.ansiGreen": "#41a6b5",
-        "terminal.ansiYellow": "#e0af68",
-        "terminal.ansiBlue": "#7aa2f7",
-        "terminal.ansiMagenta": "#bb9af7",
-        "terminal.ansiCyan": "#7dcfff",
-        "terminal.ansiWhite": "#787c99",
-        "terminal.ansiBrightBlack": "#363b54",
-        "terminal.ansiBrightRed": "#f7768e",
-        "terminal.ansiBrightGreen": "#41a6b5",
-        "terminal.ansiBrightYellow": "#e0af68",
-        "terminal.ansiBrightBlue": "#7aa2f7",
-        "terminal.ansiBrightMagenta": "#bb9af7",
-        "terminal.ansiBrightCyan": "#7dcfff",
-        "terminal.ansiBrightWhite": "#acb0d0",
-        "charts.red": "#f7768e",
-        "charts.blue": "#7aa2f7",
-        "charts.yellow": "#e0af68",
-        "charts.orange": "#ff9e64",
-        "charts.green": "#41a6b5",
-        "charts.purple": "#9d7cd8",
-        "charts.foreground": "#9AA5CE",
-        "charts.lines": "#16161e",
+        "statusBarItem.remoteBackground": "#008844"
     },
     "tokenColors": [
         {

@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.9
+
+StatBar remote button color.
+
 ## 1.0.8
 
 Set comment color.
