@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.1
+
+Brackets' colors added.
+
 ## 1.1.0
 
 Fixed wrong colors.
