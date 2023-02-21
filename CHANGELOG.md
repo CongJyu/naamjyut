@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.1
+
+Optimized colors and fixed some problems.
+
 ## 1.2.0
 
 Optimized colors.
