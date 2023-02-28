@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.2
+
+Optimized activity bar colors.
+
 ## 1.2.1
 
 Optimized colors and fixed some problems.

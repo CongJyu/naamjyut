@@ -3,9 +3,7 @@
     "author": "CongJyu",
     "type": "dark",
     "colors": {
-        "statusBarItem.remoteBackground": "#94006f",
-        "statusBar.noFolderBackground": "#5b55ff",
-        "statusBar.background": "#5b55ff",
+        "statusBarItem.remoteBackground": "#16825d",
         "editorBracketHighlight.foreground1": "#698cd6", //"#7AA2F7",
         "editorBracketHighlight.foreground2": "#68b3de", //"#7DCFFF",
         "editorBracketHighlight.foreground3": "#9a7ecc", //"#BB9AF7",
