@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.4.0
+
+New color scheme!
+
 ## 1.3.0
 
 Changed colors.
