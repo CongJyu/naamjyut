@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.6.0
+
+Adjust colors.
+
 ## 1.5.0
 
 Adjust colors.
