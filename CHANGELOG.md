@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.7.1
+
+Fixed problems.
+
 ## 1.7.0
 
 Adjust colors.
