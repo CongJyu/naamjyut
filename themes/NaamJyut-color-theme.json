@@ -1,6 +1,7 @@
 {
 	"name": "naamjyut",
 	"type": "dark",
+	"author": "Rain CongJyu Chen",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"enumMember": {
