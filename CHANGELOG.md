@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.8.0
+
+Optimized colors.
+
 ## 1.7.2
 
 Fixed problems.
