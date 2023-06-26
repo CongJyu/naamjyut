@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.9.0
+
+Optimized green color.
+
 ## 1.8.0
 
 Optimized colors.
