@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.10.1
+
+Optimized colors.
+
 ## 1.10.0
 
 Optimized brackets' colors.
