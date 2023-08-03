@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.11.3
+
+Adjust colors.
+
 ## 1.11.0
 
 Large update. Change window and editor colors.
