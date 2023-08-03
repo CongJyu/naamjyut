@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.11.2
+
+Adjust colors.
+
 ## 1.11.1
 
 Adjust comments.
