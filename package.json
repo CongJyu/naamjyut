@@ -2,7 +2,7 @@
   "name": "naamjyut",
   "displayName": "NaamJyut",
   "description": "An inclusive, gentle color scheme.",
-  "version": "1.11.3",
+  "version": "1.11.4",
   "engines": {
     "vscode": "^1.73.0"
   },
